@@ -1,10 +1,10 @@
 # 👋 Hello, I'm Danny Becerra!
 
-I am a highly responsible and positive software developer living in Canada, currently pursuing an AEC in Internet Programming at TAV College in Montreal. With a strong background in both frontend 🌐 (HTML, CSS, JavaScript, React, Bootstrap, Tailwind CSS) and backend 💻 (Node.js, Express.js, Python) development, I excel in creating full-stack web applications. 
+I am a Full Stack developer based in Canada, with a degree in Internet Programming from TAV College in Montreal. I’m passionate about coding and love creating applications that meet real needs.
 
-My projects include an Inventory Management App using the MERN stack. I have experience with databases such as MySQL, PostgreSQL, MongoDB.
+I specialize in developing both web and mobile applications.
 
-I love to keep learning and I am truly passionate about technology and programming.
+Feel free to check out my projects, and I’m always open to suggestions!
 
 
 🌐 [LinkedIn](https://www.linkedin.com/in/danny-becerra-a19a3026a/)
